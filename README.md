@@ -1,6 +1,6 @@
 # Art Gallery Artwork List
 
-A beginner-friendly art gallery project developed using Python.
+A beginner-friendly art gallery project, digital marketing topics program developed using Python.
 
 ## Features
 - Displays a welcome message.
