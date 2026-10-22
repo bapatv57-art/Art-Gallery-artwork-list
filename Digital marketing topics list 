@@ -1,0 +1,17 @@
+print("Welcome to Digital marketing")
+print("These are the topics in digital marketing")
+
+topics= [
+    "Search engine optimization",
+    "Social media marketing",
+    "Resume building",
+    "Artificial intelligence",
+    "Influencer marketing",
+    "Affiliate marketing",
+    "Wordpress"
+    ]
+    
+print("\nDigital marketing topics:")
+    
+for topic in topics:
+   print(topic)
