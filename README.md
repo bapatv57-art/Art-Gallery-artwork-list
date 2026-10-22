@@ -1,13 +1,5 @@
-# Art Gallery Artwork List
+This repository consists of basically some small programs of lists in python.
 
-A beginner-friendly art gallery project, digital marketing topics program developed using Python.
+1. List of Artworks in art gallery.
 
-## Features
-- Displays a welcome message.
-- Lists different types of artwork.
-
-## Technology Used
-- Python
-
-## How to Run
-python art_gallery.py
+2. List of Digital marketing topics.
