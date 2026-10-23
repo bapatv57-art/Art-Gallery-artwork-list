@@ -1,0 +1,25 @@
+print("Welcome to Maharashtra's most awaited evening")
+
+print("Natyaveer: Aamhi kalavanta")
+
+print("\nThe events for the evening are")
+
+events= [
+"Saraswati Pujan",
+"Welcome song",
+"Speech",
+"Maharashtra's Lok Natya",
+"Lavani",
+"Powada",
+"Sawal-jawab",
+"Ballya dance",
+"Majhi Mauli",
+"Bharud",
+"Dhol-tasha",
+"Saints of Maharashtra",
+"Modern city and culture",
+"Nandi"
+]
+    
+for event in events:
+   print(event)
